@@ -1,0 +1,3 @@
+﻿  ThreadSafelyStack.cpp
+ThreadSafelyStack.obj : error LNK2001: неразрешенный внешний символ "public: virtual char const * __thiscall empty_stack::what(void)const " (?what@empty_stack@@UBEPBDXZ).
+E:\БОРОВ\ThreadSafelyStack\Debug\ThreadSafelyStack.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
